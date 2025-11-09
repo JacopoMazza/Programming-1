@@ -1,5 +1,5 @@
 # 🧠 Programming 1
-This repository contains coursework, home assignments and mock exams for the **Programming 1** class a.y. 2024/2025 held by **Prof. Marchetto**  at University of Trento
+This repository contains coursework, home assignments and mock exams for the **Programming 1** class a.y. 2024/2025 held by **Prof. Marchetto**  at University of Trento. <br>
 It includes various C++ projects, covering basic programming concepts and techniques and data structures examples
 
 
