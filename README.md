@@ -1,16 +1,15 @@
-# 🧠 Advanced Programming
-
-This repository contains coursework, home assignments and mock exams for the **Advanced Programming** class a.y. 2025/2026 held by **Prof. Marco Patrignani**  
-It includes various Rust projects, covering both basic and intermediate-advanced features of the language.
+# 🧠 Programming 1
+This repository contains coursework, home assignments and mock exams for the **Programming 1** class a.y. 2024/2025 held by **Prof. Marchetto**  
+It includes various C++ projects, covering basic programming concepts and techniques and data structures examples
 
 
 
 
 ## 🛠️ Technologies Used
 
-- **Language:** Rust
-- **Build Tool:** Rust Compiler
-- **IDE:** IntelliJ RustRover
+- **Language:** C++
+- **Build Tool:** GCC Compiler
+- **IDE:** VS Code
 - **Version Control:** Git + GitHub
 
 
@@ -19,21 +18,16 @@ It includes various Rust projects, covering both basic and intermediate-advanced
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/JacopoMazza/Advanced-Programming.git
-cd Advanced Programming
+git clone https://github.com/JacopoMazza/Programming 1.git
+cd Programming 1
 ```
 
-### 2. Download Rust and RustRover
-Find the Rust and RustRover installer at:
+### 2. Download GCC
+Find the GCC Compiler installer at:
+https://gcc.gnu.org/install/download.html
 
-**RustRover**: https://www.jetbrains.com/help/rust/installation-guide.html <br>
-**Rust**: https://rust-lang.org/tools/install/
-
-### 3. Open in your IDE
-Import as a Rust project or import directly in your IDE.
-
-### 4. Run a program
-Navigate to the desired assignment folder and run the `main.rs` file.
+### 3. Run a program
+Navigate to the desired assignment folder and run the `main.cpp` file.
 
 
 ## 📜 License
